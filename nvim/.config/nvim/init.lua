@@ -1,1 +1,0 @@
-require("j-ace-svg")
