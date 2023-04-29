@@ -4,3 +4,6 @@
 [submodule "nix"]
 	path = nix
 	url = git@github.com:j-ace-svg/nix.git
+[submodule "tmux/.config/tmux"]
+	path = tmux/.config/tmux
+	url = git@github.com:j-ace-svg/tmux.git
