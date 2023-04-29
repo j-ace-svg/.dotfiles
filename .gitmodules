@@ -1,3 +1,6 @@
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
 	url = https://github.com/j-ace-svg/nvim
+[submodule "nix"]
+	path = nix
+	url = git@github.com:j-ace-svg/nix.git
