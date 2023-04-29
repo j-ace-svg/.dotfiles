@@ -7,3 +7,6 @@
 [submodule "tmux/.config/tmux"]
 	path = tmux/.config/tmux
 	url = git@github.com:j-ace-svg/tmux.git
+[submodule "qutebrowser/.config/qutebrowser"]
+	path = qutebrowser/.config/qutebrowser
+	url = git@github.com:j-ace-svg/qutebrowser.git
