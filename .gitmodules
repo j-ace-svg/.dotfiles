@@ -10,3 +10,6 @@
 [submodule "qutebrowser/.config/qutebrowser"]
 	path = qutebrowser/.config/qutebrowser
 	url = git@github.com:j-ace-svg/qutebrowser.git
+[submodule "newsboat/.config/newsboat"]
+	path = newsboat/.config/newsboat
+	url = git@github.com:j-ace-svg/newsboat.git
