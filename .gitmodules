@@ -16,3 +16,6 @@
 [submodule "vifm/.config/vifm"]
 	path = vifm/.config/vifm
 	url = git@github.com:j-ace-svg/vifm.git
+[submodule "user-dirs.dirs"]
+	path = user-dirs.dirs
+	url = https://github.com/j-ace-svg/user-dirs.dirs
