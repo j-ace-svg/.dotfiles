@@ -19,3 +19,6 @@
 [submodule "user-dirs.dirs"]
 	path = user-dirs.dirs
 	url = https://github.com/j-ace-svg/user-dirs.dirs
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:j-ace-svg/alacritty.git
